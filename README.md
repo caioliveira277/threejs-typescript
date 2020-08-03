@@ -1,5 +1,5 @@
 # threejs-typescript
-Meu primeiro projeto Threejs e Typescript
+Meu primeiro projeto Threejs e Typescript.
 
 
 scripts:
