@@ -1,12 +1,11 @@
 # threejs-typescript
-My first typescript and threejs project
 
+Meu primeiro projeto Threejs e Typescript.
 
 scripts:
 
-
 > `npm run build`
-To generate the public folder
+> Para gerar a pasta `public` (modo produção)
 
-> `npm run start` 
-To run the development mode
+> `npm run start`
+> Para executar o ambiente de desenvolvimento utilizando o servidor do webpack
